@@ -267,6 +267,7 @@ Sonic supports a wide range of languages in its lexing system. If a language is 
 * 🏳 Latin
 * 🇱🇻 Latvian
 * 🇱🇹 Lithuanian
+* 🇮🇳 Malayalam
 * 🇮🇳 Marathi
 * 🇳🇵 Nepali
 * 🇮🇷 Persian
@@ -274,6 +275,7 @@ Sonic supports a wide range of languages in its lexing system. If a language is 
 * 🇵🇹 Portuguese
 * 🇮🇳 Punjabi
 * 🇷🇺 Russian
+* 🇷🇸 Serbian
 * 🇸🇰 Slovak
 * 🇸🇮 Slovene
 * 🇪🇸 Spanish
